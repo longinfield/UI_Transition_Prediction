@@ -1,5 +1,10 @@
 # [IJHCS 2025] Toward AI-driven UI transition intuitiveness inspection for smartphone apps
 Dataset and Computational Models
+
+## Benchmark Dataset
+Positive_data，Negative_data 分别存储二分类uncertainty prediction的正负样本
+UILink_test.json 存储link UI prediction的样本
+
 ## Uncertainty Predictor
 
 ### 核心功能
