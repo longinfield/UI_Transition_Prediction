@@ -6,12 +6,7 @@ Dataset and Computational Models
 * **`UILink_test.json`**: Stores the evaluation samples for the link UI prediction task.
 
 ## Uncertainty Predictor
-
-### 📌 Core Functionality
-
-*   **Multi-Modal Feature Fusion**: Extracts 768-dimensional visual features from UI screenshots (supporting both HiFi screenshots and LowFi wireframes) and 768-dimensional textual features from UI metadata using a pre-trained **CLIP (ViT-L/14)** model.
-*   **Dual-Tower Concatenation**: Normalizes and concatenates both modalities into a unified 1536-dimensional feature vector before passing it to a downstream binary classifier.
-*   **Multi-Fidelity Training & Robust Evaluation**: Supports hybrid cross-validation across HiFi and LowFi datasets, and includes built-in inverted confusion matrix reconstruction to rigorously evaluate metrics on negative (uncertain) samples.
+Given descriptions of the current page and the target page, this model computes whether users will feel uncertain about how to navigate to the target page.
 
 ---
 
