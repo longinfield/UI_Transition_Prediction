@@ -59,16 +59,16 @@ UTP_model_training/
 3. 四种 Prompt 实验策略设计
    针对移动端界面导航逻辑的复杂性，封装了 `LinkModel` 类，支持以下四种对比实验模式：
    * **`direct_prompt`（直接提示）**：无外部干预，直接输入界面元素与跳转前后文本，要求模型输出 Link ID。
-   * **`prompt_with_knowledge`（先验知识注入）**：在输入中硬编码**五大移动端导航推理原则**（语义一致性、工作流层次、视觉异动、常见导航模式、视觉显著性）。
-   * **`few_shot_without_knowledge`（普通少样本提示）**：提供 4 个具象的真实 UI 跳转场景作为 Few-shot 示例，引导模型对齐输出格式。
-   * **`few_shot_with_COT_knowledge`（思维链 + 知识少样本提示）**：在 Few-shot 示例的 Assistant 回复中，深度融合“第几条导航原则”与具体的“推理演进步骤（CoT）”，最大化激发模型的复杂逻辑推断潜力。
+   * **`prompt_with_knowledge`（先验知识注入）**：在输入中硬编码**五大移动端导航推理原则**（。
+   * **`few_shot_without_knowledge`（普通少样本提示）**：提供 4 个预测样例作为 Few-shot 示例，引导模型对齐输出格式。
+   * **`few_shot_with_COT_knowledge`（思维链 + 知识少样本提示）**：在 Few-shot 示例的 Assistant 回复中，融合“第几条导航原则”与推理演进样例
 
 ---
 
 ### 🛠 依赖环境与硬件要求
 
 代码专为 **Google Colab (建议 T4 或更高 GPU 环境)** 设计。核心依赖项包括：
-* **LLaMA-Factory**: 官方前沿的大模型微调框架
+* **LLaMA-Factory**: `0.8.3.dev0`
 * **Transformers**: `4.45.2`
 * **Tokenizers**: `0.20.1`
 * **Bitsandbytes**: 用于 4-bit 量化支持
