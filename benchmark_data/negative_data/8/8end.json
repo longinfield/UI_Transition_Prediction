@@ -1,0 +1,20 @@
+[
+  {
+    "column_min": 52,
+    "row_min": 661,
+    "column_max": 178,
+    "row_max": 699,
+    "number": 1,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 217,
+    "row_min": 654,
+    "column_max": 421,
+    "row_max": 706,
+    "number": 2,
+    "user_choice": 0,
+    "gt": 0
+  }
+]

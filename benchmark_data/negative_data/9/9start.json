@@ -1,0 +1,65 @@
+[
+  {
+    "column_min": 55,
+    "row_min": 725,
+    "column_max": 122,
+    "row_max": 761,
+    "number": 1,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 181,
+    "row_min": 720,
+    "column_max": 248,
+    "row_max": 762,
+    "number": 2,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 303,
+    "row_min": 723,
+    "column_max": 361,
+    "row_max": 763,
+    "number": 3,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 377,
+    "row_min": 79,
+    "column_max": 427,
+    "row_max": 123,
+    "number": 4,
+    "user_choice": 1,
+    "gt": 1
+  },
+  {
+    "column_min": 89,
+    "row_min": 361,
+    "column_max": 333,
+    "row_max": 403,
+    "number": 5,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 89,
+    "row_min": 436,
+    "column_max": 339,
+    "row_max": 476,
+    "number": 6,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 92,
+    "row_min": 510,
+    "column_max": 346,
+    "row_max": 548,
+    "number": 7,
+    "user_choice": 0,
+    "gt": 0
+  }
+]

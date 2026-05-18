@@ -1,0 +1,128 @@
+[
+  {
+    "column_min": 22,
+    "row_min": 11,
+    "column_max": 124,
+    "row_max": 113
+  },
+  {
+    "column_min": 143,
+    "row_min": 20,
+    "column_max": 799,
+    "row_max": 113
+  },
+  {
+    "column_min": 924,
+    "row_min": 15,
+    "column_max": 1013,
+    "row_max": 120
+  },
+  {
+    "column_min": 1034,
+    "row_min": 0,
+    "column_max": 1079,
+    "row_max": 41
+  },
+  {
+    "column_min": 306,
+    "row_min": 190,
+    "column_max": 743,
+    "row_max": 318
+  },
+  {
+    "column_min": 457,
+    "row_min": 339,
+    "column_max": 620,
+    "row_max": 399
+  },
+  {
+    "column_min": 469,
+    "row_min": 420,
+    "column_max": 620,
+    "row_max": 490
+  },
+  {
+    "column_min": 471,
+    "row_min": 536,
+    "column_max": 638,
+    "row_max": 611
+  },
+  {
+    "column_min": 473,
+    "row_min": 641,
+    "column_max": 606,
+    "row_max": 701
+  },
+  {
+    "column_min": 355,
+    "row_min": 750,
+    "column_max": 729,
+    "row_max": 825
+  },
+  {
+    "column_min": 369,
+    "row_min": 876,
+    "column_max": 690,
+    "row_max": 971
+  },
+  {
+    "column_min": 396,
+    "row_min": 1008,
+    "column_max": 685,
+    "row_max": 1099
+  },
+  {
+    "column_min": 441,
+    "row_min": 1143,
+    "column_max": 652,
+    "row_max": 1211
+  },
+  {
+    "column_min": 455,
+    "row_min": 1257,
+    "column_max": 627,
+    "row_max": 1401
+  },
+  {
+    "column_min": 373,
+    "row_min": 1413,
+    "column_max": 708,
+    "row_max": 1499
+  },
+  {
+    "column_min": 445,
+    "row_min": 1543,
+    "column_max": 650,
+    "row_max": 1618
+  },
+  {
+    "column_min": 324,
+    "row_min": 1634,
+    "column_max": 752,
+    "row_max": 1718
+  },
+  {
+    "column_min": 778,
+    "row_min": 1225,
+    "column_max": 1079,
+    "row_max": 1527
+  },
+  {
+    "column_min": 196,
+    "row_min": 1818,
+    "column_max": 273,
+    "row_max": 1901
+  },
+  {
+    "column_min": 508,
+    "row_min": 1815,
+    "column_max": 599,
+    "row_max": 1906
+  },
+  {
+    "column_min": 796,
+    "row_min": 1820,
+    "column_max": 892,
+    "row_max": 1894
+  }
+]

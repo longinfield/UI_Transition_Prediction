@@ -1,0 +1,29 @@
+[
+  {
+    "column_min": 20,
+    "row_min": 633,
+    "column_max": 66,
+    "row_max": 678,
+    "number": 1,
+    "user_choice": 1,
+    "gt": 1
+  },
+  {
+    "column_min": 190,
+    "row_min": 631,
+    "column_max": 238,
+    "row_max": 678,
+    "number": 2,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 367,
+    "row_min": 630,
+    "column_max": 413,
+    "row_max": 678,
+    "number": 3,
+    "user_choice": 0,
+    "gt": 0
+  }
+]

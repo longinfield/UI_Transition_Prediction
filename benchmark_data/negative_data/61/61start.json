@@ -1,0 +1,137 @@
+[
+  {
+    "column_min": 3,
+    "row_min": 31,
+    "column_max": 57,
+    "row_max": 73,
+    "number": 1,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 370,
+    "row_min": 32,
+    "column_max": 425,
+    "row_max": 73,
+    "number": 2,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 296,
+    "row_min": 299,
+    "column_max": 425,
+    "row_max": 333,
+    "number": 3,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 63,
+    "row_min": 716,
+    "column_max": 118,
+    "row_max": 759,
+    "number": 4,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 191,
+    "row_min": 717,
+    "column_max": 247,
+    "row_max": 760,
+    "number": 5,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 307,
+    "row_min": 717,
+    "column_max": 362,
+    "row_max": 759,
+    "number": 6,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 48,
+    "row_min": 339,
+    "column_max": 124,
+    "row_max": 415,
+    "number": 7,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 129,
+    "row_min": 339,
+    "column_max": 199,
+    "row_max": 415,
+    "number": 8,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 205,
+    "row_min": 339,
+    "column_max": 273,
+    "row_max": 416,
+    "number": 9,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 278,
+    "row_min": 339,
+    "column_max": 348,
+    "row_max": 414,
+    "number": 10,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 351,
+    "row_min": 339,
+    "column_max": 427,
+    "row_max": 414,
+    "number": 11,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 12,
+    "row_min": 434,
+    "column_max": 175,
+    "row_max": 483,
+    "number": 12,
+    "user_choice": 1,
+    "gt": 1
+  },
+  {
+    "column_min": 10,
+    "row_min": 490,
+    "column_max": 174,
+    "row_max": 527,
+    "number": 13,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 10,
+    "row_min": 538,
+    "column_max": 174,
+    "row_max": 578,
+    "number": 14,
+    "user_choice": 0,
+    "gt": 0
+  },
+  {
+    "column_min": 10,
+    "row_min": 589,
+    "column_max": 174,
+    "row_max": 637,
+    "number": 15,
+    "user_choice": 0,
+    "gt": 0
+  }
+]
