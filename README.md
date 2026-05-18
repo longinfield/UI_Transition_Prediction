@@ -43,7 +43,7 @@ UTP_model_training/
 │           ├── *start.jpg / *start_mockup.jpg
 │           └── hand_*end.json
 └── candidate_models/          # 模型权重自动保存目录
-
+```
 ---
 
 ## Link UI Predictor
