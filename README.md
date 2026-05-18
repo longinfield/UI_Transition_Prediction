@@ -2,8 +2,8 @@
 Dataset and Computational Models
 
 ## Benchmark Dataset
-Positive_data，Negative_data 分别存储二分类uncertainty prediction的正负样本
-UILink_test.json 存储link UI prediction的样本
+* **`Positive_data` & `Negative_data`**: Store the positive and negative samples for the binary uncertainty prediction task.
+* **`UILink_test.json`**: Stores the evaluation samples for the link UI prediction task.
 
 ## Uncertainty Predictor
 
