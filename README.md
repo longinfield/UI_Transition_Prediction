@@ -1,4 +1,7 @@
-## 🛠 依赖环境设定
+# [IJHCS 2025] Toward AI-driven UI transition intuitiveness inspection for smartphone apps
+Dataset and Computational Models
+## Uncertainty Predictor
+### 🛠 依赖环境设定
 
 代码基于 Google Colab 与 PyTorch 框架开发，核心依赖版本要求如下：
 * **Transformers**: `4.47.1`
@@ -10,7 +13,7 @@
 
 ---
 
-## 📂 数据目录结构规范
+### 📂 数据目录结构规范
 
 为了确保数据读取函数（如 `build_train_val_set_with_hifi_data`）正常运行，请将您的数据集在 Google Drive 的 `UTP_model_training` 目录下按如下结构组织：
 
