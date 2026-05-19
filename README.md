@@ -27,11 +27,11 @@ To ensure that the data-loading functions (e.g., `build_train_val_set_with_hifi_
 ```text
 UTP_model_training/
 ├── sk.json                     # Whitelist configuration file containing specific filtering logic
-├── certain_data/               # Positive/Deterministic dataset (Label: 0)
+├── certain_data/               # Positive/Deterministic training data (Label: 0)
 │   └── [directory_name]/
 │       ├── [directory_name]start.jpg
 │       └── YOLO_[directory_name]end.json
-├── uncertain_data/             # Negative/Uncertain/Ambiguous dataset (Label: 1)
+├── uncertain_data/             # Negative/Uncertain/Ambiguous training data (Label: 1)
 │   └── [directory_name]/
 │       ├── [directory_name]start.jpg
 │       ├── [directory_name]wireframe_start.jpg
@@ -77,6 +77,7 @@ The script is tailored for execution on **Google Colab (T4 or higher GPU environ
 ### 📂 Project Data and Configuration Standards
 
 Ensure that the following assets are correctly mapped in the `UTP_model_training/LLaMA-Factory/` path within your Google Drive:
-*   **`data/dataset_info.json`**: Registration metadata containing configuration profiles for the `UILinkII` dataset.
-*   **`data/UILinkII_test.json`**: The designated testing evaluation split.
+*   **`data/dataset_info.json`**: Registration metadata containing configuration profiles for the `UILinkII` `UILinkII_test` dataset.
+*   **`data/UILinkII_test.json`**: The designated testing data.
+*   **`data/UILinkII.json`**: The designated training data.
 *   **`llama3.1_UILink_II_lora_epoch6/`**: The folder containing saved LoRA adapter checkpoint weights.
